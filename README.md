@@ -14,7 +14,7 @@
 
 ![](http://www.zhuzimiko.com/sduClick/d280234e-d3d4-4bd5-bc5c-66fe33e2f43a.png)
 
-* 点击控制台一栏，输入给的js代码，回车，然后就一下子全选中了
+* 点击控制台一栏，输入给的js代码，回车，然后就一下子全选中了（Tips,如果运行过一次后，可以按`↑`直接弄出上次执行过的代码）
 
 ![](http://www.zhuzimiko.com/sduClick/8895197a-0c5b-489c-9de1-66dc5f4a4cef.png)
 
