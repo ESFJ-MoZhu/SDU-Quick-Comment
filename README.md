@@ -50,7 +50,7 @@ document.querySelector('input[name="yxjspx"][value="1"]').checked = true;//推�
 const textarea = document.querySelector('#jynr_D5308AB6D49E4115A90CBEF8E5FB7082');
 textarea.value = '1'; //评价内容
 ```
-#### 帧问题
+#### 解决问题
 通过切换开发者工具中 "帧 (Frame)" 的选项，解决了找不到 DOM 元素的问题。这种情况通常出现在页面嵌套了多个 iframe（嵌套框架）的情况下。
 
 为什么切换帧解决了问题？
